@@ -1,2 +1,1 @@
-setTimeout(window.location="http://iamducthanh.tk",100)
-alert('Vào facebook ăn Loz à!')
+setTimeout(window.location="https://www.facebook.com/iamDucThanh",10000)
